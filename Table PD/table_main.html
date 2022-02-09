@@ -1,0 +1,95 @@
+<html lang="en" style="height: 821;">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Galvena lapa</title>
+</head>
+    <body class="body" style="font-family: 'Times New Roman', Times, serif; ">
+            <section>
+                <div class="flex-container5">
+                    <div class="flex-item5" style="display: flex; width: 1424px;">
+                        <div class="flex-container" style=" display: flex; flex-direction: row; max-width: 480px; background-image: url(New%20Project.png); height: 805px; border: 1px solid black">
+                            <div class="flex-item">
+                                <div class="flex-container1">
+                                    <div class="flex-item1" style="display: flex; flex-direction: column; align-items: center; width: 480px; padding-top: 50px;">
+                                        <p style="font-size: 40px; margin-bottom: 5px; margin-top: 10px; color: #e6e6e6;">Esi sveicināts/-ta!</p>
+                                        <p style="font-size: 45px; margin: 5px 0  5px 0; color: #e6e6e6;">Skolēns/-niece</p>
+                                    </div>
+                                </div>
+                                <div class="flex-container2">
+                                    <div class="flex-item2" style="display: flex; flex-direction: column; align-items: center; width: 480px; padding-top: 50px;">
+                                        <p style="font-size: 25px; color: #e6e6e6;">Tavas laboratorijas uzskaites sistēma</p>
+                                    </div>
+                                </div>
+                                <div class="flex-container3">
+                                    <div class="flex-item3" style="display: flex; flex-direction: column; align-items: center; margin-top: 100px; max-width: 480px;">    
+                                        <img src="Screenshot%202022-02-08%20at%2012.39.45.png" alt="image_chemisty" style ="width: 350px; background: none ">            
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="flex-container4" style="display: flex; flex-direction: column; justify-content: flex-start; align-items: stretch; width: 944px; border: 1px solid black"">
+                            <div class="flex-item4">
+                                <div class="flex-container5" style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
+                                    <div class="flex-item5">
+                                        <p style="font-size: 40px; margin-top: 100px; margin-bottom: 150px;">Ko Tu vēlies darīt šodien?</p>
+                                    </div>
+                                </div>
+                                <div class="flex-container6" style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
+                                    <div class="flex-item6">
+                                        <p style="font-size: 20px; margin-bottom: 50px;">Piekļūsti savas skolas laboratorijai vai apluko publiski pieejamo informāciju un datus par laboratoriju</p>
+                                    </div>
+                                </div>
+                                <div class="flex-container7" style="display: flex; flex-direction: row; margin-bottom: 300px; justify-content: space-evenly;">
+                                    <div class="flex-item7">
+                                        <button class="button" style="width: 250px; padding: 10px; font-size: 16px; border: none; margin-right: 20px;">
+                                            Pieslēgties
+                                        </button>
+                                        <button class="button1" style="width: 300px; padding: 10px; font-size: 16px; border: none; margin-left: 20px;">
+                                            Piekļūt publiskiem datiem
+                                        </button>
+                                    </div>
+                                </div>
+                                <div class="flex-container8" style="display: flex; flex-direction: row; justify-content: flex-end;">
+                                    <div class="flex-item8">
+                                        <button class="button2" style="width: 100px; padding: 10px; font-size: 10px; margin-right: 40px; border: none;">
+                                            Ziņot par kļūdu
+                                        </button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </body>
+    <style>
+.button:hover{
+    background-color: lightseagreen;
+    cursor: pointer;
+    transition-duration: 0.1s;
+}
+.button1:hover{
+    background-color: lightseagreen;
+    cursor: pointer;
+    transition-duration: 0.1s;
+}
+.button2:hover{
+    background-color: red;
+    cursor: pointer;
+    transition-duration: 0.1s;
+}
+    </style>
+    <script>
+        const button = document.querySelector(".button")
+        const button2 = document.querySelector(".button1")
+        button.addEventListener('click', () => {
+            window.location='table_piesl.html';
+        });
+        button2.addEventListener('click', () => {
+            window.location='table_publ.html';
+        });
+
+    </script>
+</html>
