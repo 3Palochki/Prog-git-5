@@ -1,0 +1,26 @@
+.viela1,.viela2,.viela3,.viela4,.viela5,
+.viela6,.viela7,.viela8,.viela9,.viela10,
+.viela11,.viela12,.viela13,.viela14,
+.viela15,.viela16,.viela17{
+    display: block;
+}
+.aprikojums{
+    display: block;
+}
+.V_btn:hover,.A_btn:hover,.Vls_btn:hover{
+    cursor: pointer;
+    color: rgb(243, 243, 243);
+    transition-property: 0.2s;
+}
+.button:hover{
+    transition-duration: 0.5s;
+    font-size: 18px;
+    cursor: pointer;
+    color: red;
+}
+
+.button2:hover{
+    background-color: red;
+    cursor: pointer;
+    transition-duration: 0.1s;
+}

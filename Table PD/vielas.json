@@ -1,0 +1,142 @@
+[
+    {
+      "apakstips": "sāls",
+      "daudzums": 100,
+      "id": "KL1431685",
+      "komentari": "Dazi komentari",
+      "mervienibas": "g",
+      "nosaukums": "Kalcija karbonāts CaCO3",
+      "skaits": 25,
+      "tips": "viela"
+    },
+    {
+      "apakstips": "hidroksīds",
+      "daudzums": 50,
+      "id": "KL0437188",
+      "komentari": "Šķīdums izvedots un sapildīts 2020.09.23",
+      "mervienibas": "ml",
+      "nosaukums": "NaOH šķīdums 10%",
+      "skaits": 45,
+      "tips": "viela"
+    },
+    {
+      "apakstips": "skābe",
+      "daudzums": 100,
+      "id": "KL3936047",
+      "komentari": "Šķīdums izvedots un sapildīts 2020.10.21",
+      "mervienibas": "ml",
+      "nosaukums": "HCl 20%",
+      "skaits": 24,
+      "tips": "viela"
+    },
+    {
+      "apakstips": "hidroksīds",
+      "daudzums": 50,
+      "id": "KL5830267",
+      "komentari": "Šķīdums izvedots un sapildīts 2020.09.23",
+      "mervienibas": "ml",
+      "nosaukums": "NaOH šķīdums 20%",
+      "skaits": 45,
+      "tips": "viela"
+    },
+    {
+      "apakstips": "hidroksīds",
+      "daudzums": 100,
+      "id": "KL1043624",
+      "komentari": "Šķīdums izvedots un sapildīts 2020.10.21",
+      "mervienibas": "ml",
+      "nosaukums": "NaOH šķīdums 20%",
+      "skaits": 413,
+      "tips": "viela"
+    },
+    {
+      "apakstips": "hidroksids",
+      "daudzums": 50,
+      "id": "KL4408340",
+      "komentari": "Šķīdums izvedots un sapildīts lorem ipsum",
+      "mervienibas": "ml",
+      "nosaukums": "NaOH šķīdums 10%",
+      "skaits": 45,
+      "tips": "viela"
+    },
+    {
+      "apakstips": "test3",
+      "daudzums": 5,
+      "id": "KL4610636",
+      "komentari": "Šķīdums izvedots un sapildīts lorem ipsum",
+      "mervienibas": "ml",
+      "nosaukums": "Nosaukums lorem ipsum",
+      "skaits": 4,
+      "tips": "viela"
+    },
+    {
+      "apakstips": "test4",
+      "daudzums": 5,
+      "id": "KL5686019",
+      "komentari": "Šķīdums izvedots un sapildīts lorem ipsum",
+      "mervienibas": "ml",
+      "nosaukums": "Nosaukums lorem ipsum",
+      "skaits": 4,
+      "tips": "viela"
+    },
+    {
+      "apakstips": "test5",
+      "daudzums": 5,
+      "id": "KL6757240",
+      "komentari": "Šķīdums izvedots un sapildīts lorem ipsum",
+      "mervienibas": "ml",
+      "nosaukums": "Nosaukums lorem ipsum",
+      "skaits": 4,
+      "tips": "viela"
+    },
+    {
+      "apakstips": "test6",
+      "daudzums": 5,
+      "id": "KL1491640",
+      "komentari": "Šķīdums izvedots un sapildīts lorem ipsum",
+      "mervienibas": "ml",
+      "nosaukums": "Nosaukums lorem ipsum",
+      "skaits": 4,
+      "tips": "viela"
+    },
+    {
+      "apakstips": "test7",
+      "daudzums": 5,
+      "id": "KL2492716",
+      "komentari": "Šķīdums izvedots un sapildīts lorem ipsum",
+      "mervienibas": "ml",
+      "nosaukums": "Nosaukums lorem ipsum",
+      "skaits": 4,
+      "tips": "viela"
+    },
+    {
+      "apakstips": "test8",
+      "daudzums": 5,
+      "id": "KL6072673",
+      "komentari": "Šķīdums izvedots un sapildīts lorem ipsum",
+      "mervienibas": "ml",
+      "nosaukums": "Nosaukums lorem ipsum",
+      "skaits": 4,
+      "tips": "viela"
+    },
+    {
+      "apakstips": "test9",
+      "daudzums": 5,
+      "id": "KL1039814",
+      "komentari": "Šķīdums izvedots un sapildīts lorem ipsum",
+      "mervienibas": "ml",
+      "nosaukums": "Nosaukums lorem ipsum",
+      "skaits": 4,
+      "tips": "viela"
+    },
+    {
+      "apakstips": "test2.1",
+      "daudzums": 5,
+      "id": "KL0260813",
+      "komentari": "Šķīdums izvedots un sapildīts lorem ipsum",
+      "mervienibas": "ml",
+      "nosaukums": "Nosaukums lorem ipsum",
+      "skaits": 4,
+      "tips": "viela"
+    }
+  ]

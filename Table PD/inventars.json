@@ -1,0 +1,42 @@
+[
+    {
+      "apakstips": "mehāniskie svari",
+      "id": "KL6900453",
+      "komentari": "Nav",
+      "nosaukums": "Mehāniskie svari QWS",
+      "skaits": 5,
+      "tips": "aprīkojums"
+    },
+    {
+      "apakstips": "elektroniskie svari",
+      "id": "KL1043624",
+      "komentari": "Darbojas uz 3 AAA tipa baterijām",
+      "nosaukums": "Elektroniskie svari ES-25",
+      "skaits": 15,
+      "tips": "aprīkojums"
+    },
+    {
+      "apakstips": "plītiņa",
+      "id": "KL6009264",
+      "komentari": "Strāvas vada garums 1m",
+      "nosaukums": "Elektriskā plītīņa",
+      "skaits": 8,
+      "tips": "aprīkojums"
+    },
+    {
+      "apakstips": "trauki",
+      "id": "KL1511629",
+      "komentari": "Kolbas īpaši lielām vielām",
+      "nosaukums": "Milzīgās kolbas",
+      "skaits": 100,
+      "tips": "aprīkojums"
+    },
+    {
+      "apakstips": "stikls",
+      "id": "KL7274753",
+      "komentari": "Viegli plīstoša",
+      "nosaukums": "Stikla mēģene",
+      "skaits": 12,
+      "tips": "aprīkojums"
+    }
+  ]
